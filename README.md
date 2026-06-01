@@ -15,7 +15,6 @@ The solution leverages Artificial Intelligence and workflow automation to reduce
 - Google Sheets
 - Google Drive
 - Supabase
-- Trello
 - Gmail
 - Telegram
 - Looker Studio
