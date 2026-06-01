@@ -1,5 +1,5 @@
 # AI-HR-Automation-Workflow
-# AI Powered: AI HR Recruitment & Centralized Dashboard Automation
+## AI Powered: AI HR Recruitment & Centralized Dashboard Automation
 
 ## Overview
 
@@ -34,7 +34,7 @@ The solution leverages Artificial Intelligence and workflow automation to reduce
 ## Workflow Architecture
 
 ## Workflow in n8n
-
+<img width="1755" height="730" alt="Screenshot (746)" src="https://github.com/user-attachments/assets/75ae0482-8e09-4383-af37-0aca3b731d22" />
 
 ```text
 Google Form Submission
